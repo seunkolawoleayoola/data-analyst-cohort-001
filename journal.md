@@ -13,7 +13,8 @@
 
 ### To Explore Further
 
-
+- [ ] what is python
+- [ ] what is python use for?
 
 ---
 
