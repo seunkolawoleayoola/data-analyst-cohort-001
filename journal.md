@@ -11,12 +11,16 @@
 
 1. I download and install python on my system.
 2. Python -V was used on VS Code to confirmed the version of python installed.
-3. Pip install jupyter notebook was used on VS Code to installed jupyter notebook.
+3. Pip install jupyter notebook was used in VS Code to installed jupyter notebook.
 
 ### To Explore Further
 
 - [ ] what is python
 - [ ] what is python use for?
+- [ ] what is GitHub?
+- [ ] what is GitHub used for?
+- [ ] what is markdown file?
+- [ ] what is rendered file?
 
 ---
 
