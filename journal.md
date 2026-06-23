@@ -10,6 +10,7 @@
 ### What I Did
 
 1. I download and install python on my system.
+2. Python -V was used on VS Code to confirmed the version of python installed.
 
 ### To Explore Further
 
