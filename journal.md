@@ -28,4 +28,20 @@
 
 ---
 
+## Day 2 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+1. what Excel is all about
+2. how to use Excel
+3. how to create and format tables on Excel
+
+### To Explore Further
+
+
+
+---
+
 > Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.
