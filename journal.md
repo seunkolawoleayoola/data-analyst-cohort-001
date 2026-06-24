@@ -37,6 +37,9 @@
 1. what Excel is all about
 2. how to use Excel
 3. how to create and format tables on Excel
+4. how to create and format tables
+5. how to sort table which helps when dealing with large and small data
+6. how to filter my data when "clean up"
 
 ### To Explore Further
 
