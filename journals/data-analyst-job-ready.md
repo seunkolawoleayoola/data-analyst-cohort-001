@@ -10,7 +10,7 @@
 
 ### What I Did
 
-1. My work output shows just 2 rows after carried out all the required task to give expected result.
+1. After completing all the required tasks, my work output displayed only 2 rows (returned and pending) which required action.
 
 ### To Explore Further
 
