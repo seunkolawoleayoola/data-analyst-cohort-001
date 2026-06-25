@@ -12,6 +12,7 @@
 
 1. After completing all the required tasks, my work output displayed only 2 rows (returned and pending) which required action.
 2. i am more confidence in using the necessary tools in performing the task
+3. i completed a task (structured workbook, clean table, sort, filter and named range) involved sales revenue for an organisation that has 4 branches with excel.
 
 ### To Explore Further
 
