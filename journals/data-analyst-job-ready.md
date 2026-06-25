@@ -8,6 +8,10 @@
 
 **Phase:** Excel
 
+### What I Did
+
+1. My work output shows just 2 rows after carried out all the required task to give expected result.
+
 ### To Explore Further
 
 
