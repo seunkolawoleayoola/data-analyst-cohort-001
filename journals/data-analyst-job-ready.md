@@ -13,6 +13,7 @@
 1. Which hub generated the highest total order value? Answer: South hub led this week with £7,600 across two orders.
 2. What percentage of deliveries were on time? Answer: 63% of the deliveries were on time while 25% were delayed and the remain 13% failed.
 3. What is the average order value for B2B vs B2C? Answer: Average order value for B2B is £4,125 compared to that of B2C which is £160.
+4. Limitation: this data only covered for a week but need like 3-4months data to be able to give adequate recommendation following studying the trend of the deliveries type.
 
 ### To Explore Further
 
