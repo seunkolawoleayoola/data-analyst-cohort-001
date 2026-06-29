@@ -11,8 +11,11 @@
 ### What I Did
 
 1. i identified the missing values by selecting a column --home--find& select, Go To special and clicked on Blanks.
-2. i removed the duplicated data from the table after proper investigation has been carried out.
-3. i filtered the table by removed the blanks that appeared.
+2. Removed the duplicated data from the table after proper investigation has been carried out.
+3. Filtered the table by removed the blanks that appeared.
+4. Rows was counted before and after to confirm if there are changes after data cleansing.
+5. All issues with inconsistent use of capitalization was rectified.
+6. Negative salary was spotted which i flagged for HR to review.
 
 ### To Explore Further
 
