@@ -1,50 +1,15 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 24 June 2026
+> Last updated: 1 July 2026
 
 ---
 
-## Day 1 — Set up your data analyst portfolio
-
-**Phase:** Setup
-
-### What I Did
-
-1. I download and install python on my system.
-2. python -V was used in VS Code to confirmed the version of python installed.
-3. pip install jupyter notebook was used in VS Code to installed jupyter notebook.
-4. python is high-level programming language known for its clarity, readable syntax and versatility.
-5. python can be use for web development, game development, data science, automation and software testing .
-6. i understand the advantage of python
-
-### To Explore Further
-
-- [x] what is python
-- [x] what is python use for?
-- [ ] what is GitHub?
-- [ ] what is GitHub used for?
-- [ ] what is markdown file?
-- [ ] what is rendered file?
-
----
-
-## Day 2 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Visualize: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
-### What I Did
-
-1. what Excel is all about
-2. how to use Excel
-3. how to create and format tables on Excel
-4. how to create and format tables
-5. how to sort table which helps when dealing with large and small data
-6. how to filter my data when "clean up"
-
 ### To Explore Further
 
 
 
 ---
-
-> Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.
