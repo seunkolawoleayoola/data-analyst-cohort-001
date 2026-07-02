@@ -118,6 +118,7 @@
 - **Verified:** Excel Tables:
 - **Reflected:** Row breaks when using a cell reference like D2:D9 instead of a named Table column.
 - **Next proof:** Ctrl + T is the keyboard shortcut converts a range to a Table
+- **Note:** Sorting and filtering:
 
 ### To Explore Further
 
