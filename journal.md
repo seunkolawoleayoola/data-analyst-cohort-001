@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 9 July 2026
+> Last updated: 10 July 2026
 
 ## Summary
 
@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 09 Jul 2026, 14:27 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 10 Jul 2026, 16:44 |
 
 ---
 
@@ -226,8 +226,8 @@
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 09 Jul 2026, 14:27 |
-| Completed tasks | 7 |
+| Saved/updated | 10 Jul 2026, 16:44 |
+| Completed tasks | 10 |
 | Lesson complete | In progress |
 
 ### What I Did
@@ -235,6 +235,9 @@
 - **Built:** SUM can be use to sum all the numerical values in both row and column.
 - **Applied:** AVERAGE is the summation of all the values with a range divided by the count of those number.
 - **Built:** COUNTIFS is designed to count number of cells that meet multiple criteria across one or more ranges
+- **Applied:** NESTESD IF are used to handle multiple conditions in a single formula, allowing for complex decision-making logic
+- **Reflected:** XLOOKUP searches any direction either vertical or horizontal while VLOOKUP doesn't perform horizontal searches.
+- **Next proof:** VLOOKUP can return only one value at a time while XLOOKUP can retrieve values from multiple columns simultaneously
 
 ### To Explore Further
 
