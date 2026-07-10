@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 0 | 10 Jul 2026, 16:44 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 1 | 10 Jul 2026, 16:53 |
 
 ---
 
@@ -226,9 +226,9 @@
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 16:44 |
-| Completed tasks | 10 |
-| Lesson complete | In progress |
+| Saved/updated | 10 Jul 2026, 16:53 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
 
 ### What I Did
 
