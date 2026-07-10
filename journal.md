@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 9
+- Lesson entries captured: 10
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 1 | 1 | 10 Jul 2026, 16:53 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 1 | 10 Jul 2026, 22:57 |
 
 ---
 
@@ -238,6 +238,22 @@
 - **Applied:** NESTESD IF are used to handle multiple conditions in a single formula, allowing for complex decision-making logic
 - **Reflected:** XLOOKUP searches any direction either vertical or horizontal while VLOOKUP doesn't perform horizontal searches.
 - **Next proof:** VLOOKUP can return only one value at a time while XLOOKUP can retrieve values from multiple columns simultaneously
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 2: Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-practice` |
+| Phase | Excel |
+| Saved/updated | 10 Jul 2026, 22:57 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
 
 ### To Explore Further
 
