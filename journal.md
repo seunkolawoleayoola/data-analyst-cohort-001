@@ -1,18 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 10 July 2026
+> Last updated: 13 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 10
+- Lesson entries captured: 11
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 2 | 1 | 10 Jul 2026, 22:57 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 2 | 13 Jul 2026, 13:29 |
 
 ---
 
@@ -251,9 +251,27 @@
 | --- | --- |
 | Lesson slug | `da-week-02-practice` |
 | Phase | Excel |
-| Saved/updated | 10 Jul 2026, 22:57 |
+| Saved/updated | 10 Jul 2026, 22:58 |
 | Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+### Lesson 3: Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 13 Jul 2026, 13:29 |
+| Completed tasks | 0 |
 | Lesson complete | In progress |
+
+### What I Did
+
+- **Verified:** Inconsistence in numerical value input which result in formula error
+- **Applied:** Blanks space within the price row
+- **Explained:** the use of none business terms FREE instead of Promotional item which is more business term that could not raise different questions
 
 ### To Explore Further
 
