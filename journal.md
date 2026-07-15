@@ -1,18 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 13 July 2026
+> Last updated: 15 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
-- Weeks with evidence: 3
-- Lesson entries captured: 11
+- Weeks with evidence: 4
+- Lesson entries captured: 16
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 13 Jul 2026, 14:33 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 23:09 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 1 | 15 Jul 2026, 01:17 |
 
 ---
 
@@ -272,6 +273,79 @@
 - **Verified:** Inconsistence in numerical value input which result in formula error
 - **Applied:** Blanks space within the price row
 - **Explained:** the use of none business terms FREE instead of Promotional item which is more business term that could not raise different questions
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 4: Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-analyze` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 23:06 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+### Lesson 5: Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-visualize` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 23:07 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+### Lesson 6: Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 23:08 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+### Lesson 7: Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-review` |
+| Phase | Excel |
+| Saved/updated | 14 Jul 2026, 23:09 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+## Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns
+
+### Lesson 1: Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-learn` |
+| Phase | Excel |
+| Saved/updated | 15 Jul 2026, 01:17 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** The data exported contained many messy format or input such as duplicated name, inconsistent text format in both name and email adderess column, inconsistent in date format and both city with postcode were merged together in a single row.
+- **Applied:** Duplicated name (John Smith) with the same details across the column was deleted during table cleaning.
+- **Explained:** The inconsistence in both names and email address e.g case and space problem are corrected.
+- **Verified:** CityPostcode was splitted into different column.
 
 ### To Explore Further
 
