@@ -1,19 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 17 July 2026
+> Last updated: 18 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 17
+- Lesson entries captured: 18
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 23:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 1 | 17 Jul 2026, 03:19 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 2 | 18 Jul 2026, 13:46 |
 
 ---
 
@@ -361,7 +361,7 @@
 | Phase | Excel |
 | Saved/updated | 17 Jul 2026, 03:19 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -432,5 +432,29 @@
 
 ### S — Split the problem
 - Count
+
+---
+
+### Lesson 3: Clean and validate: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 18 Jul 2026, 13:46 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Applied:** Used =IF(LEFT(B2,4)= "POL-", "OK", "Format error") to checked the PolicyID that pass validation ckeck.
+- **Note:** The invalid date on the claimdate was flagged and discussed with manager.
+- **Applied:** Date logic =IF(C2>D2, "Claim after settlement", "OK") was used to checked claimdate after settlementdate.
+- **Verified:** Checked the missing amount using =IF(E2="", "Missing", "OK")
+- **Note:** learnt how to efficiently use formula to carried out the task instead of doing it manually.
+
+### To Explore Further
+
+
 
 ---
