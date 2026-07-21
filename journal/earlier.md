@@ -6,14 +6,14 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 20
+- Lesson entries captured: 21
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 18:13 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 23:09 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 4 | 21 Jul 2026, 20:20 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 21 Jul 2026, 21:27 |
 
 ---
 
@@ -488,15 +488,39 @@
 | --- | --- |
 | Lesson slug | `da-week-03-visualize` |
 | Phase | Excel |
-| Saved/updated | 21 Jul 2026, 20:20 |
+| Saved/updated | 21 Jul 2026, 20:22 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
 - **Note:** I studied the table closely and ensure there is no data quality issues.
 - **Note:** I plotted a clustered bar chart of Target vs Actual which interpret the table information.
 - **Why it matters:** R2 and R5 Actual% is flag with different colour because is far below the target compared to R7 and required immediate briefing
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 21 Jul 2026, 21:27 |
+| Completed tasks | 0 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Why it matters:** A telecoms operations analyst exported 8 subscriber records from the CRM for a Q3 campaign. The export has leading/trailing spaces in names, all-caps emails, city+postcode crammed into one cell, five different date formats, and one duplicate entry. Fix everything before the marketing team imports it.
+- **Explained:** I studied the raw data closely, understood table content before exported it to excel for cleanup.
+- **Applied:** I used excel formulas to treat all data issues accordingly.
+- **Note:** I presented a very clean and clear table for the marketing team for them to import.
+- **Note:** Submitted document save the marketing team 95% 0f their time studying and trying to understand the full content of the table.
 
 ### To Explore Further
 
