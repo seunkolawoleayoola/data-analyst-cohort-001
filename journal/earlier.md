@@ -6,7 +6,7 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 24
+- Lesson entries captured: 25
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 04 Jul 2026, 21:02 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 14 Jul 2026, 23:09 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 21 Jul 2026, 22:33 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 24 Jul 2026, 20:21 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 3 | 2 | 24 Jul 2026, 23:35 |
 
 ---
 
@@ -581,9 +581,9 @@
 | --- | --- |
 | Lesson slug | `da-week-04-practice` |
 | Phase | Excel |
-| Saved/updated | 24 Jul 2026, 20:21 |
+| Saved/updated | 24 Jul 2026, 20:24 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -592,6 +592,31 @@
 - **Applied:** I used pivot table analysis to plot my pivot chart and add a slicers.
 - **Note:** I exported all the task carried out to my dashboard.
 - **Note:** I observed from both pivot table and chart that electronics generated the highest revenue with just 20 sales in Southern region in the March followed by furniture in February with 5 sale in Northern region. It is observed that clothing has the lowest revenue even with high sale in January in the southern region.
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 3: Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 24 Jul 2026, 23:35 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** Date has different format and been standardise with datevalue to follow the same format.
+- **Note:** MOO3 has 0 usage which maybe missed reading or input error, this is flagged for investigation.
+- **Note:** MOO4 has negative (-150) usage, this is flagged for investigation
+- **Note:** The inconsistency in capitalization in both Region and Tariff are been corrected using excel formula.
+- **Verified:** MOO7 is blank in both CurrReading and Usage rows respectively, flagged has an incomplete data formation
+- **Built:** I built pivot on cleaned data after fixed all data issues such as missing values, wrong types and bad dates
 
 ### To Explore Further
 
