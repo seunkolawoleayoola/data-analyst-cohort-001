@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 13 | 22 Jul 2026, 20:56 |
 | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 24 Jul 2026, 20:24 |
 | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 24 Jul 2026, 23:36 |
-| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 03 Aug 2026, 23:37 |
+| Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 23:47 |
+| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 04 Aug 2026, 21:24 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
@@ -53,3 +54,11 @@
 - **Built:** I created a sheet for pivot table
 - **Verified:** Category in Rows, I set up my pivot with Author in Columns, Values: Sum of Views + Average of TimeOnPage_s.
 - **Built:** plotted my pivot chart and added a slicer to separate the variables
+
+### Visualize: Pivot tables, pivot charts, slicers, and a one-page management report
+
+**What I did**
+
+- **Built:** I created the dashboard sheet where i generated my pivot table
+- **Built:** I plotted clustered column chart and added my slicer for both venue and result
+- **Note:** Home GoalsFor = 10, Away = 6. Second half of season: 10 goals (vs 6 first half). Title: *'Home advantage clear — 40% more goals scored at home.
