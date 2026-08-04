@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 24 Jul 2026, 20:24 |
 | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 24 Jul 2026, 23:36 |
 | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 23:47 |
-| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 04 Aug 2026, 21:24 |
+| Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 04 Aug 2026, 21:24 |
+| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 04 Aug 2026, 22:49 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
@@ -62,3 +63,24 @@
 - **Built:** I created the dashboard sheet where i generated my pivot table
 - **Built:** I plotted clustered column chart and added my slicer for both venue and result
 - **Note:** Home GoalsFor = 10, Away = 6. Second half of season: 10 goals (vs 6 first half). Title: *'Home advantage clear — 40% more goals scored at home.
+
+### Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report
+
+**What I did**
+
+- **Built:** Question: Built interactive hotel revenue pivot with RoomType/Month breakdown and Quarter slicer (Hospitality).
+- **Built:** Method used: created excel pivot table, used the table to plot clustered column chart and added a slicer. All task was caried out in excel.
+- **Verified:** The Result: Suite revenue = £2,880 (52% of total). Board can filter by quarter without requesting a new file.
+- **Explained:** Question:  Monthly sales pivot across 4 categories × 3 regions (Retail).
+- **Built:** Method used: created excel pivot table, used the table to plot clustered column chart and added a slicer. All task was caried out in excel.
+- **Verified:** The Result: Electronics = £11,000 (57% of revenue). Regional slicer enables self-service filtering for 3 directors.
+- **Explained:** Question:  Cleaned 8 meter records (5 issues found) before pivoting (Utilities).
+- **Built:** Method used: cleaned and sort the table, created excel pivot table with a cleaned dataset, used the table to plot clustered column chart and added a slicer. All task was caried out in excel.
+- **Verified:** The Result: Pivot only includes 6 validated readings — incomplete and negative usage excluded.
+- **Explained:** Question: From 8 article performance the editor wants a pivot showing: total views by content category, average time-on-page by category, and which author drives the most engagement — from a single pivot table with a slicer (Media).
+- **Built:** Method used: created excel pivot table, used the table to plot clustered column chart and added a slicer. All task was caried out in excel.
+- **Verified:** The Result:  Features category averages 417s time-on-page vs 119s for News. Okafor outperforms on engagement by 3×.
+- **Explained:** Question:  coaching staff wants seasonal performance from 8 results across home and away games. The head coach wants to see goals scored vs goals conceded by match type, and which half of the season performed better (sports).
+- **Built:** Method used: created excel pivot table, used the table to plot clustered column chart and added a slicer. All task was caried out in excel.
+- **Verified:** he Result:  Second half of season outperformed first half on goals scored (10 vs 6). Home advantage: 40% more goals.
+- **Built:** Resume bullet: Built self-service Excel pivot reports with slicers for 5 industries, enabling non-technical stakeholders to filter data independently without requesting new spreadsheets
