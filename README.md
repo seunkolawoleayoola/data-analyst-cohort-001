@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
+| 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 04 Aug 2026, 22:49 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
 | 03 Aug 2026, 23:47 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 20:24 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 23:36 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 22 Jul 2026, 20:56 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 21 Jul 2026, 20:22 | Lesson | Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
 | 21 Jul 2026, 21:33 | Lesson | Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
-| 21 Jul 2026, 22:33 | Lesson | Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
