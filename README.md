@@ -2,19 +2,26 @@
 
 > Evidence repository for my Qode Clarity Data Analyst Job-Ready program.
 
-## Start Here
+![Activity](assets/activity.svg)
 
-**Read my learning journal:** [journal.md](journal.md)
+**22 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-08-04**
 
-The journal is the main progress record for this repository. It shows what I studied, what I built, what I fixed, and how my work improved across the program.
+## Latest Proof
 
-## Latest Weekly Proof
+Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
-Use this section as the quick recruiter review path. The newest weekly proof should link to the artefact, screenshot, command output, dashboard, query result, or architecture note that proves the work is real.
-
-| Week | Proof | Evidence link | Review note |
+| Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| Latest | See [`journal.md`](journal.md) for the newest entry | Add project or evidence link here | What changed, what was verified, and what to review next |
+| 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 04 Aug 2026, 22:49 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
+| 03 Aug 2026, 23:47 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 24 Jul 2026, 20:24 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 24 Jul 2026, 23:36 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 22 Jul 2026, 20:56 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 21 Jul 2026, 20:22 | Lesson | Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+| 21 Jul 2026, 21:33 | Lesson | Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
+
+Full journal: [journal/index.md](journal/index.md)
 
 ## Program Summary
 
@@ -59,7 +66,12 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 
 ```text
 .
-|-- journal.md
+|-- journal/
+|   |-- index.md
+|   |-- week-01.md ...
+|   `-- earlier.md
+|-- assets/
+|   `-- activity.svg
 |-- notes/
 |-- projects/
 |-- sql/
@@ -72,10 +84,10 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 
 ## How To Review This Work
 
-1. Open [`journal.md`](journal.md) to follow the learning progress and weekly evidence.
-2. Review the project folders for case studies, practical tasks, and end-to-end work.
-3. Inspect the notes and source folders for tool-specific evidence.
-4. Check screenshots or outputs for visible proof of completed work.
+1. Check the activity heatmap and Latest Proof table above for recent evidence.
+2. Open [`journal/index.md`](journal/index.md) for the full week-by-week record.
+3. Review the project folders for case studies, practical tasks, and end-to-end work.
+4. Inspect the notes and source folders for tool-specific evidence.
 
 ## Project Review Rubric
 
@@ -109,7 +121,7 @@ Use this checklist for capstones, portfolio projects, or cohort review sessions:
 
 ## Mock Interview Prompts
 
-Use the latest evidence in `journal.md` to answer these out loud:
+Use the latest evidence in `journal/index.md` to answer these out loud:
 
 - Walk me through the most recent thing you built.
 - Show me the file, query, dashboard, pipeline, or screenshot that proves it worked.
@@ -121,7 +133,7 @@ Use the latest evidence in `journal.md` to answer these out loud:
 
 Before sharing this repository with a recruiter or interviewer, the strongest version should include:
 
-- A concise `journal.md` with recent weekly evidence and reflection.
+- An up-to-date activity heatmap and Latest Proof table (both auto-generated on push).
 - At least one finished project folder with source files, outputs, and setup notes.
 - Screenshots, logs, query results, dashboard exports, or terminal output that prove the work ran.
 - A project README that explains the problem, approach, validation, limitations, and next improvement.
