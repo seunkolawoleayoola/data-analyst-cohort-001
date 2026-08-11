@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**22 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-08-04**
+**25 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-11**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 11 Aug 2026, 11:02 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 05 Aug 2026, 01:11 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 04 Aug 2026, 22:49 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | In progress |
+| 04 Aug 2026, 22:50 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 03 Aug 2026, 23:47 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 20:24 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 23:36 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 22 Jul 2026, 20:56 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 21 Jul 2026, 20:22 | Lesson | Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
-| 21 Jul 2026, 21:33 | Lesson | Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
@@ -69,7 +69,7 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 |-- journal/
 |   |-- index.md
 |   |-- week-01.md ...
-|   `-- earlier.md
+|   `-- pre-cohort-notes.md
 |-- assets/
 |   `-- activity.svg
 |-- notes/
