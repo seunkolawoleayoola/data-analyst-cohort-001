@@ -146,3 +146,19 @@
 - **Applied:** I used excel formulas to treat all data issues accordingly.
 - **Note:** I presented a very clean and clear table for the marketing team for them to import.
 - **Note:** Submitted document save the marketing team 95% 0f their time studying and trying to understand the full content of the table.
+
+## Daily Concept Clinic
+
+### DQ Math 04 - Outliers & Accuracy
+
+_2026-08-11 · logged 2026-08-11 20:28 UTC_
+
+- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
+- **What was taught:** we have 2 methods of calculating outliers
+1. IQR fencing method which can be use to calculate outlier when the data is SKEWED
+2. Z-score method which can be use to calculate outlier when the data is NORMAL distributed and SYMMETRIC.
+- **What you now understand:** Masking effect in respect to outlier is the one that differentiate IQR method from Z-score method. 
+masking effect is the primary reason why data scientists choose the interquartile Range (IQR) method over Z-score method for outlier detection.
+- **What is still unclear or your feedback:** 1. how to calculate outlier using Z-score method
+- **Evidence:** Go back to previous Outlier topic and treat in respect to the two methods.
+- **What support or practice you need next:** More worked examples on this topic
