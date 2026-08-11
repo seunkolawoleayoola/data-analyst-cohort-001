@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-11 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Go back to previous Outlier topic and treat in respect to the two methods. |
 | 11 Aug 2026, 11:02 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 05 Aug 2026, 01:11 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
@@ -19,7 +20,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 03 Aug 2026, 23:47 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 20:24 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 24 Jul 2026, 23:36 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 22 Jul 2026, 20:56 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
