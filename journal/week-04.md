@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 7/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 24 Jul 2026, 23:36 |
 | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 23:47 |
 | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 04 Aug 2026, 21:24 |
-| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | In progress | 5 | 04 Aug 2026, 22:49 |
+| Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 04 Aug 2026, 22:50 |
+| Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 05 Aug 2026, 01:11 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
