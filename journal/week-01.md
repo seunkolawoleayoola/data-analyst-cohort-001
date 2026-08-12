@@ -162,3 +162,18 @@ masking effect is the primary reason why data scientists choose the interquartil
 - **What is still unclear or your feedback:** 1. how to calculate outlier using Z-score method
 - **Evidence:** Go back to previous Outlier topic and treat in respect to the two methods.
 - **What support or practice you need next:** More worked examples on this topic
+
+### DQ Math 04 - Outliers & Accuracy
+
+_2026-08-12 · logged 2026-08-12 22:58 UTC_
+
+- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
+- **What was taught:** 1. Explained further on IQR method and Z-score in respect to Masking Effect. 
+2. Types of sampling bias.
+- **What you now understand:** Masking Effect differentiate both IQR and Z-score method in calculating the outliers. IQR method doesn't allow the suspected outliers in the calculation while Z-score method involve the outliers itself in the calculation and bias set in. 
+Types of sampling bias
+Selection bias: favour of certain set of rows. We used samples of data taking in birmingham during summer when lots of visitor are around to determine how beauty and populated the place is.
+Survivorship bias: deals with those that survive a process and neglect those that doesn't.
+- **What is still unclear or your feedback:** Types of sampling bias and how to identify
+- **Evidence:** Read more on this week Topic
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
