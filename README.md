@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**25 days logged &middot; 5 weeks &middot; 1-day streak &middot; last activity 2026-08-11**
+**26 days logged &middot; 5 weeks &middot; 2-day streak &middot; last activity 2026-08-12**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 12 Aug 2026, 06:21 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-11 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Go back to previous Outlier topic and treat in respect to the two methods. |
 | 11 Aug 2026, 11:03 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 11 Aug 2026, 15:15 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 11 Aug 2026, 23:13 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 11 Aug 2026, 23:14 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 05 Aug 2026, 01:11 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 04 Aug 2026, 21:24 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 04 Aug 2026, 22:50 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 03 Aug 2026, 23:47 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
