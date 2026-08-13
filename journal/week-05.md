@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,6 +10,7 @@
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 11 Aug 2026, 15:15 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 11 Aug 2026, 23:14 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 12 Aug 2026, 06:22 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 2 | 13 Aug 2026, 06:34 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -37,3 +38,11 @@
 - **Note:** English has lowest SD (14.4)--- most consistent. Math and Science has almost SD which is 21.3 and 21.5 respectively.
 - **Note:** CORREL (Maths, Science)--- 0.998--- near -perfect: students  who struggle in Maths struggle in Science.
 - **Note:** English performance is most consistent (SD=14.7). Maths and Science are almost perfectly correlated (r=0.998) — targeted Maths support will likely improve Science too.
+
+### Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** I calculated both center and spread cluster variables, also established the correlation relationship.
+- **Verified:** I plotted both Line chart and scatter plot using data given after checked for all data quality issues.
+- **Note:** Plain English caption:  Every year since 2017 shows above-baseline warming. The trend is upward (r=0.87). CO2 concentration is the strongest predictor (r=0.95). 2024 is the warmest year in this dataset at +1.35°C.
