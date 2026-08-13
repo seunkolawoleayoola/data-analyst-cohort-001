@@ -177,3 +177,22 @@ Survivorship bias: deals with those that survive a process and neglect those tha
 - **What is still unclear or your feedback:** Types of sampling bias and how to identify
 - **Evidence:** Read more on this week Topic
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+### DQ Math 04 - Outliers & Accuracy
+
+_2026-08-13 · logged 2026-08-13 21:04 UTC_
+
+- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
+- **What was taught:** 1. what is Positioning: is where does the value sit compared with other
+2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.  
+3. Types of Ranking when we have tie: 
+(A) Standard 1 2 2 4 Ranking which deals with positioning
+(B) Dens Ranking which deals with cluster and grouping
+- **What you now understand:** 1. what is Positioning: is where does the value sit compared with other
+2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.  
+3. Types of Ranking when we have tie: 
+(A) Standard 1 2 2 4 Ranking which deals with positioning
+(B) Dens Ranking which deals with cluster and grouping
+- **What is still unclear or your feedback:** Need to read more to understand better Types of Ranking.
+- **Evidence:** Positioning and Ranking
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
