@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 13 Aug 2026, 06:34 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 13 Aug 2026, 06:35 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
+| 13 Aug 2026, 14:30 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 2026-08-12 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Read more on this week Topic |
 | 12 Aug 2026, 06:22 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-11 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Go back to previous Outlier topic and treat in respect to the two methods. |
 | 11 Aug 2026, 11:03 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 11 Aug 2026, 15:15 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 11 Aug 2026, 23:14 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 05 Aug 2026, 01:11 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
