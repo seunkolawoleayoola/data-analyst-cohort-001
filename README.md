@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**29 days logged &middot; 6 weeks &middot; 5-day streak &middot; last activity 2026-08-15**
+**30 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-19**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 15 Aug 2026, 20:36 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
+| 19 Aug 2026, 15:05 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
+| 15 Aug 2026, 20:37 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 14 Aug 2026, 15:54 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 2026-08-13 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Positioning and Ranking |
 | 13 Aug 2026, 06:35 | Lesson | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 13 Aug 2026, 14:31 | Lesson | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 13 Aug 2026, 14:39 | Lesson | Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 2026-08-12 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Read more on this week Topic |
-| 12 Aug 2026, 06:22 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
