@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 14 Aug 2026, 15:54 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 15 Aug 2026, 20:37 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 15:05 |
-| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 19 Aug 2026, 16:06 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 16:07 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 20 Aug 2026, 20:30 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -30,3 +31,10 @@
 
 - **Note:** The flash sale is unusual but possible (z= +1.75) and will be flag for review. The probability of seeing flash sale day is 4%.
 - **Note:** Dashboard KPI definition: 'A trading day is classified as exceptional if AOV exceeds the 90th percentile (£62). Flash sale achieved £68 — exceptional, but not record-breaking.
+
+### Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** 81% of applicants meet the 96-point offer threshold while 19% fall below the offer threshold.
+- **Note:** The top 10% of applicants score 135 or above — these are target scholarship candidates.
