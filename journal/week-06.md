@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 15 Aug 2026, 20:37 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 15:05 |
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 16:07 |
-| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 20 Aug 2026, 20:30 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 20 Aug 2026, 20:31 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 20 Aug 2026, 20:36 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -38,3 +39,14 @@
 
 - **Note:** 81% of applicants meet the 96-point offer threshold while 19% fall below the offer threshold.
 - **Note:** The top 10% of applicants score 135 or above — these are target scholarship candidates.
+
+### Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** Manufacturing: Modelled biscuit pack weight distribution (mean=200g, SD=4g). Calculated 10.6% rejection rate. Recommended recalibration to 202g to reduce rejection to 2.3%.
+- **Applied:** Finance: Applied normal model to credit score distribution. 4% of applicants fall below the 600 automatic decline threshold.
+- **Note:** Retail: Identified flash sale day (AOV £68) as statistically unusual — top 4% of trading days.
+- **Note:** Education: Visualised A-level applicant pool
+- **Note:** 81% meet offer threshold. Top 10% benchmark: 135 points.
+- **Applied:** I applied normal distribution modelling and probability analysis (NORM.DIST, NORM.INV, z-scores) across manufacturing, finance, retail, and education datasets to support data-driven decisions.
