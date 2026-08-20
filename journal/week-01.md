@@ -196,3 +196,17 @@ _2026-08-13 · logged 2026-08-13 21:04 UTC_
 - **What is still unclear or your feedback:** Need to read more to understand better Types of Ranking.
 - **Evidence:** Positioning and Ranking
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+## Mock Interview
+
+### Mock Interview
+
+_2026-08-20 · logged 2026-08-20 17:49 UTC_
+
+- **Role:** Interviewer
+- **Interview:** Cycle 1 · Business Analyst · 20 Aug
+- **Question or topic you assessed:** How would you model a change where a new data source affects a process, the systems that support it, and who's responsible for what?
+- **How the candidate answered:** He is developing but needed to put more effort in approach of answering questions.
+- **Feedback and score you gave:** The process is a very good and well organized process. 
+He scored about 70%.
+- **What to probe or run differently next cycle:** 1:1 review with a mentor
