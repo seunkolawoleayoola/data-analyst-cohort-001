@@ -197,6 +197,18 @@ _2026-08-13 · logged 2026-08-13 21:04 UTC_
 - **Evidence:** Positioning and Ranking
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
 
+### Hypothesis and A/B testing
+
+_2026-08-24 · logged 2026-08-24 23:11 UTC_
+
+- **Clinic topic:** Hypothesis and A/B testing
+- **What was taught:** What is  Hypothesis and A/B testing
+- **What you now understand:** null hypothesis and alternative hypothesis how to apply it as a data analyst. 
+how to when apply A/B testing is required in task as a data analyst
+- **What is still unclear or your feedback:** get more understanding of A/B testing
+- **Evidence:** Read more about the topic
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
 ## Mock Interview
 
 ### Mock Interview
