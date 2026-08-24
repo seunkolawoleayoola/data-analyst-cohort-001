@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**31 days logged &middot; 6 weeks &middot; 2-day streak &middot; last activity 2026-08-20**
+**32 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-24**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-24 | Daily Concept Clinic | Hypothesis and A/B testing | Read more about the topic |
 | 2026-08-20 | Mock Interview | Mock Interview | — |
 | 20 Aug 2026, 20:31 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 20 Aug 2026, 20:36 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
@@ -19,7 +20,6 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 19 Aug 2026, 16:07 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 15 Aug 2026, 20:37 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 14 Aug 2026, 15:54 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 2026-08-13 | Daily Concept Clinic | DQ Math 04 - Outliers & Accuracy | Positioning and Ranking |
 
 Full journal: [journal/index.md](journal/index.md)
 
