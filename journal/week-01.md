@@ -220,6 +220,19 @@ _2026-08-25 · logged 2026-08-26 02:25 UTC_
 - **Evidence:** Read more about the topic
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
 
+### Solving business problem as a data analyst
+
+_2026-08-26 · logged 2026-08-26 21:45 UTC_
+
+- **Clinic topic:** Solving business problem as a data analyst
+- **What was taught:** How to analysis each task given so as to know how to solve the problem. 
+VLookup formula.
+- **What you now understand:** I understood how data analyst real life scenario look like.
+How to applied VLOOKUP formula
+- **What is still unclear or your feedback:** Get more familiar with the real life scenario questions
+- **Evidence:** Get more familiar with the real life scenario questions
+- **What support or practice you need next:** Redo the take-home practice with a fresh dataset
+
 ## Mock Interview
 
 ### Mock Interview
