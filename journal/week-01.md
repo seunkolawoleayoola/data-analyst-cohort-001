@@ -209,6 +209,17 @@ how to when apply A/B testing is required in task as a data analyst
 - **Evidence:** Read more about the topic
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
 
+### Hypothesis and A/B testing
+
+_2026-08-25 · logged 2026-08-26 02:25 UTC_
+
+- **Clinic topic:** Hypothesis and A/B testing
+- **What was taught:** more emphasis was placed on t-value and how to calculate.
+- **What you now understand:** t-value or t-test is a statistics that measure how far your sample result is from what you expected under the null hypothesis, expressed in units of standard error.  t-value = (observed value - expected value)/ standard error
+- **What is still unclear or your feedback:** the discussion about the topic is still on going.
+- **Evidence:** Read more about the topic
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
 ## Mock Interview
 
 ### Mock Interview
