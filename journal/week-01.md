@@ -233,6 +233,27 @@ How to applied VLOOKUP formula
 - **Evidence:** Get more familiar with the real life scenario questions
 - **What support or practice you need next:** Redo the take-home practice with a fresh dataset
 
+### Data Modelling
+
+_2026-09-02 · logged 2026-09-03 00:15 UTC_
+
+- **Clinic topic:** Data Modelling
+- **What was taught:** what is data modelling?
+Questions surrounding data Modelling?
+Grain of a table
+- **What you now understand:** Data Modelling is the process of through which we process out data as regards Structure, Relationship, Storage, and Access. 
+Question surrounding Data Modelling is: 
+How do i structure the data coming in?
+What is the relationship between this data and other data
+How do i store that data?
+How do i access the stored data?
+
+Grain of a table: is the lowest part of the table that gives meaning. 
+It is also the column that is unique which gives what the table represent.
+- **What is still unclear or your feedback:** Data Modelling in this 3 respect (1) Meaning (2) Structure (3) Rules which also the reflection of the 4 areas mentioned in the definition as STRUCTURE, RELATIONSHIP, STORAGE and ACCESS.
+- **Evidence:** Read more about Data Modelling
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
 ## Mock Interview
 
 ### Mock Interview
