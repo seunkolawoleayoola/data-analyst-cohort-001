@@ -32,3 +32,43 @@
 - **Verified:** Inconsistence in numerical value input which result in formula error
 - **Note:** Blanks space within the price row
 - **Note:** the use of none business terms FREE instead of Promotional item which is more business term that could not raise different questions
+
+## Daily Concept Clinic
+
+### Data Quality issues
+
+_2026-07-17_
+
+- **Taught:** 6 dimensions of categories of data quality issues
+
+**What I now understand**
+
+the 6 can be represented by CUVCAT (Completeness, Uniqueness, Validity, Consistency, A, Timeliness.
+
+### Formulas: SUM
+
+_2026-07-18_
+
+- **Taught:** how to use excel formulas
+- **What I now understand:** keep learning excel formulas
+
+### Data quality issues
+
+_2026-07-19_
+
+- **Taught:** Missing data
+- **What I now understand:** How to identify missing data
+
+### Cleaning data: duplicates
+
+_2026-07-21_
+
+- **Taught:** TRIM/PROPER
+- **What I now understand:** I learnt how to use the excel formulas to cleanup the messy data
+
+### Data Quality issues
+
+_2026-07-24_
+
+- **Taught:** Uniqueness
+- **What I now understand:** practices more examples on different types of duplicates
