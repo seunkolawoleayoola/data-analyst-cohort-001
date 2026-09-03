@@ -153,106 +153,140 @@
 
 _2026-08-11 · logged 2026-08-11 20:28 UTC_
 
-- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
-- **What was taught:** we have 2 methods of calculating outliers
+**Taught**
+
+we have 2 methods of calculating outliers
 1. IQR fencing method which can be use to calculate outlier when the data is SKEWED
 2. Z-score method which can be use to calculate outlier when the data is NORMAL distributed and SYMMETRIC.
-- **What you now understand:** Masking effect in respect to outlier is the one that differentiate IQR method from Z-score method. 
+
+**What I now understand**
+
+Masking effect in respect to outlier is the one that differentiate IQR method from Z-score method.
 masking effect is the primary reason why data scientists choose the interquartile Range (IQR) method over Z-score method for outlier detection.
-- **What is still unclear or your feedback:** 1. how to calculate outlier using Z-score method
+
+- **Still unclear:** 1. how to calculate outlier using Z-score method
 - **Evidence:** Go back to previous Outlier topic and treat in respect to the two methods.
-- **What support or practice you need next:** More worked examples on this topic
+- **Support I need next:** More worked examples on this topic
 
 ### DQ Math 04 - Outliers & Accuracy
 
 _2026-08-12 · logged 2026-08-12 22:58 UTC_
 
-- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
-- **What was taught:** 1. Explained further on IQR method and Z-score in respect to Masking Effect. 
+**Taught**
+
+1. Explained further on IQR method and Z-score in respect to Masking Effect.
 2. Types of sampling bias.
-- **What you now understand:** Masking Effect differentiate both IQR and Z-score method in calculating the outliers. IQR method doesn't allow the suspected outliers in the calculation while Z-score method involve the outliers itself in the calculation and bias set in. 
+
+**What I now understand**
+
+Masking Effect differentiate both IQR and Z-score method in calculating the outliers. IQR method doesn't allow the suspected outliers in the calculation while Z-score method involve the outliers itself in the calculation and bias set in.
 Types of sampling bias
 Selection bias: favour of certain set of rows. We used samples of data taking in birmingham during summer when lots of visitor are around to determine how beauty and populated the place is.
 Survivorship bias: deals with those that survive a process and neglect those that doesn't.
-- **What is still unclear or your feedback:** Types of sampling bias and how to identify
+
+- **Still unclear:** Types of sampling bias and how to identify
 - **Evidence:** Read more on this week Topic
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ### DQ Math 04 - Outliers & Accuracy
 
 _2026-08-13 · logged 2026-08-13 21:04 UTC_
 
-- **Clinic topic:** DQ Math 04 - Outliers & Accuracy
-- **What was taught:** 1. what is Positioning: is where does the value sit compared with other
-2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.  
-3. Types of Ranking when we have tie: 
+**Taught**
+
+1. what is Positioning: is where does the value sit compared with other
+2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.
+3. Types of Ranking when we have tie:
 (A) Standard 1 2 2 4 Ranking which deals with positioning
 (B) Dens Ranking which deals with cluster and grouping
-- **What you now understand:** 1. what is Positioning: is where does the value sit compared with other
-2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.  
-3. Types of Ranking when we have tie: 
+
+**What I now understand**
+
+1. what is Positioning: is where does the value sit compared with other
+2. what is Ranking: is the orders of values from highest to lowest and from lowest to highest.
+3. Types of Ranking when we have tie:
 (A) Standard 1 2 2 4 Ranking which deals with positioning
 (B) Dens Ranking which deals with cluster and grouping
-- **What is still unclear or your feedback:** Need to read more to understand better Types of Ranking.
+
+- **Still unclear:** Need to read more to understand better Types of Ranking.
 - **Evidence:** Positioning and Ranking
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ### Hypothesis and A/B testing
 
 _2026-08-24 · logged 2026-08-24 23:11 UTC_
 
-- **Clinic topic:** Hypothesis and A/B testing
-- **What was taught:** What is  Hypothesis and A/B testing
-- **What you now understand:** null hypothesis and alternative hypothesis how to apply it as a data analyst. 
+- **Taught:** What is  Hypothesis and A/B testing
+
+**What I now understand**
+
+null hypothesis and alternative hypothesis how to apply it as a data analyst.
 how to when apply A/B testing is required in task as a data analyst
-- **What is still unclear or your feedback:** get more understanding of A/B testing
+
+- **Still unclear:** get more understanding of A/B testing
 - **Evidence:** Read more about the topic
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ### Hypothesis and A/B testing
 
 _2026-08-25 · logged 2026-08-26 02:25 UTC_
 
-- **Clinic topic:** Hypothesis and A/B testing
-- **What was taught:** more emphasis was placed on t-value and how to calculate.
-- **What you now understand:** t-value or t-test is a statistics that measure how far your sample result is from what you expected under the null hypothesis, expressed in units of standard error.  t-value = (observed value - expected value)/ standard error
-- **What is still unclear or your feedback:** the discussion about the topic is still on going.
+- **Taught:** more emphasis was placed on t-value and how to calculate.
+
+**What I now understand**
+
+t-value or t-test is a statistics that measure how far your sample result is from what you expected under the null hypothesis, expressed in units of standard error.  t-value = (observed value - expected value)/ standard error
+
+- **Still unclear:** the discussion about the topic is still on going.
 - **Evidence:** Read more about the topic
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ### Solving business problem as a data analyst
 
 _2026-08-26 · logged 2026-08-26 21:45 UTC_
 
-- **Clinic topic:** Solving business problem as a data analyst
-- **What was taught:** How to analysis each task given so as to know how to solve the problem. 
+**Taught**
+
+How to analysis each task given so as to know how to solve the problem.
 VLookup formula.
-- **What you now understand:** I understood how data analyst real life scenario look like.
+
+**What I now understand**
+
+I understood how data analyst real life scenario look like.
 How to applied VLOOKUP formula
-- **What is still unclear or your feedback:** Get more familiar with the real life scenario questions
+
+- **Still unclear:** Get more familiar with the real life scenario questions
 - **Evidence:** Get more familiar with the real life scenario questions
-- **What support or practice you need next:** Redo the take-home practice with a fresh dataset
+- **Support I need next:** Redo the take-home practice with a fresh dataset
 
 ### Data Modelling
 
 _2026-09-02 · logged 2026-09-03 00:15 UTC_
 
-- **Clinic topic:** Data Modelling
-- **What was taught:** what is data modelling?
+**Taught**
+
+what is data modelling?
 Questions surrounding data Modelling?
 Grain of a table
-- **What you now understand:** Data Modelling is the process of through which we process out data as regards Structure, Relationship, Storage, and Access. 
-Question surrounding Data Modelling is: 
+
+**What I now understand**
+
+Data Modelling is the process of through which we process out data as regards Structure, Relationship, Storage, and Access.
+Question surrounding Data Modelling is:
 How do i structure the data coming in?
 What is the relationship between this data and other data
 How do i store that data?
 How do i access the stored data?
 
-Grain of a table: is the lowest part of the table that gives meaning. 
+Grain of a table: is the lowest part of the table that gives meaning.
 It is also the column that is unique which gives what the table represent.
-- **What is still unclear or your feedback:** Data Modelling in this 3 respect (1) Meaning (2) Structure (3) Rules which also the reflection of the 4 areas mentioned in the definition as STRUCTURE, RELATIONSHIP, STORAGE and ACCESS.
+
+**Still unclear**
+
+Data Modelling in this 3 respect (1) Meaning (2) Structure (3) Rules which also the reflection of the 4 areas mentioned in the definition as STRUCTURE, RELATIONSHIP, STORAGE and ACCESS.
+
 - **Evidence:** Read more about Data Modelling
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ## Mock Interview
 
@@ -262,8 +296,16 @@ _2026-08-20 · logged 2026-08-20 17:49 UTC_
 
 - **Role:** Interviewer
 - **Interview:** Cycle 1 · Business Analyst · 20 Aug
-- **Question or topic you assessed:** How would you model a change where a new data source affects a process, the systems that support it, and who's responsible for what?
+
+**Question or topic you assessed**
+
+How would you model a change where a new data source affects a process, the systems that support it, and who's responsible for what?
+
 - **How the candidate answered:** He is developing but needed to put more effort in approach of answering questions.
-- **Feedback and score you gave:** The process is a very good and well organized process. 
+
+**Feedback and score you gave**
+
+The process is a very good and well organized process.
 He scored about 70%.
+
 - **What to probe or run differently next cycle:** 1:1 review with a mentor
