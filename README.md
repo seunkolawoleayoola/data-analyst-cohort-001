@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**35 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-09-03**
+**35 days logged &middot; 6 weeks &middot; 2-day streak &middot; last activity 2026-09-04**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-09-04 | Daily Concept Clinic | Data Modelling | Read more about what was taught in clinic today and get more understanding of it. |
+| 2026-07-17 | Daily Concept Clinic | Data Quality issues | — |
+| 2026-07-18 | Daily Concept Clinic | Formulas: SUM | — |
+| 2026-07-19 | Daily Concept Clinic | Data quality issues | — |
+| 2026-07-21 | Daily Concept Clinic | Cleaning data: duplicates | — |
+| 2026-07-24 | Daily Concept Clinic | Data Quality issues | — |
 | 2026-09-02 | Daily Concept Clinic | Data Modelling | Read more about Data Modelling |
 | 2026-08-25 | Daily Concept Clinic | Hypothesis and A/B testing | Read more about the topic |
-| 2026-08-26 | Daily Concept Clinic | Solving business problem as a data analyst | Get more familiar with the real life scenario questions |
-| 2026-08-24 | Daily Concept Clinic | Hypothesis and A/B testing | Read more about the topic |
-| 2026-08-20 | Mock Interview | Mock Interview | — |
-| 20 Aug 2026, 20:31 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 20 Aug 2026, 20:36 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
-| 19 Aug 2026, 15:05 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
