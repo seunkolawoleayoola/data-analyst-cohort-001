@@ -37,7 +37,7 @@
 
 ### Data Quality issues
 
-_2026-07-17_
+_2026-07-17 · logged 2026-09-04 01:12 UTC_
 
 - **Taught:** 6 dimensions of categories of data quality issues
 
@@ -47,28 +47,28 @@ the 6 can be represented by CUVCAT (Completeness, Uniqueness, Validity, Consiste
 
 ### Formulas: SUM
 
-_2026-07-18_
+_2026-07-18 · logged 2026-09-04 01:12 UTC_
 
 - **Taught:** how to use excel formulas
 - **What I now understand:** keep learning excel formulas
 
 ### Data quality issues
 
-_2026-07-19_
+_2026-07-19 · logged 2026-09-04 01:12 UTC_
 
 - **Taught:** Missing data
 - **What I now understand:** How to identify missing data
 
 ### Cleaning data: duplicates
 
-_2026-07-21_
+_2026-07-21 · logged 2026-09-04 01:12 UTC_
 
 - **Taught:** TRIM/PROPER
 - **What I now understand:** I learnt how to use the excel formulas to cleanup the messy data
 
 ### Data Quality issues
 
-_2026-07-24_
+_2026-07-24 · logged 2026-09-04 01:12 UTC_
 
 - **Taught:** Uniqueness
 - **What I now understand:** practices more examples on different types of duplicates
