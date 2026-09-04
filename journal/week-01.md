@@ -288,6 +288,29 @@ Data Modelling in this 3 respect (1) Meaning (2) Structure (3) Rules which also 
 - **Evidence:** Read more about Data Modelling
 - **Support I need next:** Revisit the core concept in a follow-up clinic
 
+### Data Modelling
+
+_2026-09-04 · logged 2026-09-04 01:12 UTC_
+
+**Taught**
+
+Classification of data modelling
+3 attributed for answering data modelling questions.
+5 phases of data modelling
+
+**What I now understand**
+
+Well detailed explanation was provided on those classification such as 1. Abstraction level 2. Storage style 3. Purpose 4. Analytics shape 5. Design direction.
+
+3 major attributes in answering data modelling questions are 1. Identify the concept 2. The techniques 3. Applying them
+
+The 5 phases of data modelling includes FRAME, READ, STRUCTURE, SHAPE, PROVE.
+Two of those phases was address in this class while we continue in our class.
+
+- **Still unclear:** Get more information on data modelling
+- **Evidence:** Read more about what was taught in clinic today and get more understanding of it.
+- **Support I need next:** Revisit the core concept in a follow-up clinic
+
 ## Mock Interview
 
 ### Mock Interview
